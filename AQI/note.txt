@@ -1,0 +1,2 @@
+In the AQI datasets the city names were a bit modified because of ambiguities in certain files.
+Applying regex was hard so the same was done for combining data from multiple files
